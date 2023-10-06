@@ -1,4 +1,5 @@
 #https://news.ycombinator.com/
+#This project delves into a dataset of posts from Hacker News, a popular tech news site, to analyze user engagement. The focus is on two specific types of posts: 'Ask HN,' where users ask the community questions, and 'Show HN,' where users showcase projects or products. Using Python skills such as string manipulation and object-oriented programming, the analysis aims to determine which type of post receives more comments on average and how posting time affects user engagement.
 
 import csv
 
