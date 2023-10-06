@@ -1,6 +1,5 @@
-+*In[4]:*+
-[source, ipython3]
-----
+#https://news.ycombinator.com/
+
 import csv
 
 # Read the hacker_news.csv file as a list of lists
@@ -334,17 +333,8 @@ In this analysis of 'Ask Posts' on Hacker News, the data shows that the timing o
 +*Out[11]:*+
 ----
 
-      File "<ipython-input-11-d1705f9bb52a>", line 1
-        In this analysis of 'Ask Posts' on Hacker News, the data shows that the timing of a post significantly impacts the number of comments it receives. The standout time is 15:00 UTC, with an average of 38.59 comments per post. Other notable times are 02:00 and 20:00 UTC, averaging around 23.81 and 21.52 comments respectively. For those based in the Central Time Zone, like in Chicago, these peak times translate to 10:00 AM, 9:00 PM, and 3:00 PM local time
-           ^
-    SyntaxError: invalid syntax
+    
+        #In this analysis of 'Ask Posts' on Hacker News, the data shows that the timing of a post significantly impacts the number of comments it receives. The standout time is 15:00 UTC, with an average of 38.59 comments per post. Other notable times are 02:00 and 20:00 UTC, averaging around 23.81 and 21.52 comments respectively. For those based in the Central Time Zone, like in Chicago, these peak times translate to 10:00 AM, 9:00 PM, and 3:00 PM local time
 
-
-----
-
-
-+*In[ ]:*+
-[source, ipython3]
-----
 
 ----
