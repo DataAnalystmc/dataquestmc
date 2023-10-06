@@ -1,4 +1,4 @@
-#
+# This project focuses on analyzing the mobile app landscape to guide app development strategies for maximizing ad revenue. Utilizing data from Google Play and the App Store, the aim is to identify high-potential app categories based on user engagement. The analysis employs Python programming techniques including list operations, loops, and dictionaries. The end goal is to provide actionable insights that can drive the company's app development focus for optimal ad revenue.
 
 
 import csv
