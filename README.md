@@ -12,11 +12,7 @@ During my DataQuest certification of the Data Analyst path in Python, I honed my
 
 6. **Python Programming**: Demonstrated proficiency in Python, including the efficient use of loops, functions, and conditionals. Built reusable code that can be easily understood and modified.
 
-7. **Version Control**: Used Git for version control to track changes, collaborate with other analysts, and create a history of data transformation steps.
-
-8. **Optimization**: Employed various techniques to improve code performance, making the data analysis process more efficient.
-
-9. **Project Documentation**: Created comprehensive Markdown files to explain every step in data exploration, cleaning, and analysis, making the process transparent and reproducible.
+7. **Project Documentation**: Created comprehensive Markdown files to explain every step in data exploration, cleaning, and analysis, making the process transparent and reproducible.
 
 By successfully completing projects that cover these aspects, I've proven my ability to handle the intricacies of data analysis end-to-end, from data collection to deriving actionable insights. Please see my Jupyter notebook repository below or at: matthew-cwynar/matthew-cwynar
 
