@@ -14,9 +14,4 @@ During my DataQuest certification of the Data Analyst path in Python, I honed my
 
 7. **Project Documentation**: Created comprehensive Markdown files to explain every step in data exploration, cleaning, and analysis, making the process transparent and reproducible.
 
-By successfully completing projects that cover these aspects, I've proven my ability to handle the intricacies of data analysis end-to-end, from data collection to deriving actionable insights. Please see my Jupyter notebook repository below or at: matthew-cwynar/matthew-cwynar
-
-<!---
-matthew-cwynar/matthew-cwynar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+By successfully completing projects that cover these aspects, I've proven my ability to handle the intricacies of data analysis end-to-end, from data collection to deriving actionable insights. Please see my Jupyter notebook repository.
