@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @matthew-cwynar.
 During my DataQuest certification of the Data Analyst path in Python, I honed my skills in various aspects of data analytics:
 
 1. **Data Cleaning**: Demonstrated the ability to clean and preprocess raw data. Used techniques to handle missing or inconsistent data, removing any incorrect rows and normalizing data formats.
